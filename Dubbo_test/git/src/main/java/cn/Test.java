@@ -10,4 +10,7 @@ public class Test {
         System.out.println("hello git2 ");
         System.out.println("123");
     }
+    public void test(){
+        System.out.println("456");
+    }
 }
